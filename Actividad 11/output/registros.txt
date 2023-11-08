@@ -1,0 +1,853 @@
+Matrícula: 300041
+Nombre 1: Andrea
+Apellido Paterno: Molina
+Apellido Materno: Perez
+Fecha de nacimiento: 27-07-1970
+Sexo: MUJER
+Estado: MORELOS
+
+Matrícula: 305705
+Nombre 1: Ana
+Nombre 2: Ana
+Apellido Paterno: Díaz
+Apellido Materno: Salazar
+Fecha de nacimiento: 07-04-1938
+Sexo: MUJER
+Estado: CHIHUAHUA
+
+Matrícula: 314604
+Nombre 1: Cipriano
+Apellido Paterno: Núñez
+Apellido Materno: Morales
+Fecha de nacimiento: 16-03-2016
+Sexo: HOMBRE
+Estado: CHIHUAHUA
+
+Matrícula: 321726
+Nombre 1: Beatriz
+Nombre 2: Camila
+Apellido Paterno: Hernández
+Apellido Materno: Rojas
+Fecha de nacimiento: 04-07-1947
+Sexo: MUJER
+Estado: CAMPECHE
+
+Matrícula: 331322
+Nombre 1: Natalia
+Apellido Paterno: Morales
+Apellido Materno: Martinez
+Fecha de nacimiento: 12-05-2005
+Sexo: MUJER
+Estado: TLAXCALA
+
+Matrícula: 332662
+Nombre 1: Ana
+Nombre 2: Laura
+Apellido Paterno: Morales
+Apellido Materno: Rojas
+Fecha de nacimiento: 12-05-1934
+Sexo: MUJER
+Estado: MEXICO
+
+Matrícula: 301842
+Nombre 1: Soponcio
+Apellido Paterno: Lopez
+Apellido Materno: Perez
+Fecha de nacimiento: 06-03-1980
+Sexo: HOMBRE
+Estado: NUEVO LEON
+
+Matrícula: 306729
+Nombre 1: Obama
+Apellido Paterno: Morales
+Apellido Materno: Rodriguez
+Fecha de nacimiento: 24-10-1976
+Sexo: HOMBRE
+Estado: PUEBLA
+
+Matrícula: 319954
+Nombre 1: Juan
+Apellido Paterno: Estrvez
+Apellido Materno: Díaz
+Fecha de nacimiento: 16-01-1920
+Sexo: HOMBRE
+Estado: NUEVO LEON
+
+Matrícula: 311323
+Nombre 1: Beatriz
+Apellido Paterno: Vargas
+Apellido Materno: Torres
+Fecha de nacimiento: 08-10-1949
+Sexo: MUJER
+Estado: ZACATECAS
+
+Matrícula: 329658
+Nombre 1: Obama
+Nombre 2: Soponcio
+Apellido Paterno: Guerrero
+Apellido Materno: Gonzalez
+Fecha de nacimiento: 15-06-1961
+Sexo: HOMBRE
+Estado: AGUASCALIENTES
+
+Matrícula: 306270
+Nombre 1: Ana
+Nombre 2: Ana
+Apellido Paterno: Vargas
+Apellido Materno: Ortega
+Fecha de nacimiento: 07-06-1922
+Sexo: MUJER
+Estado: OAXACA
+
+Matrícula: 324767
+Nombre 1: Andrea
+Nombre 2: Camila
+Apellido Paterno: Cruz
+Apellido Materno: Jimenez
+Fecha de nacimiento: 23-05-1977
+Sexo: MUJER
+Estado: CHIAPAS
+
+Matrícula: 331107
+Nombre 1: Adriana
+Nombre 2: Ana
+Apellido Paterno: Hernández
+Apellido Materno: Rodriguez
+Fecha de nacimiento: 30-06-1991
+Sexo: MUJER
+Estado: NAYARIT
+
+Matrícula: 309758
+Nombre 1: Valeria
+Apellido Paterno: Ortega
+Apellido Materno: Estrvez
+Fecha de nacimiento: 21-10-1910
+Sexo: MUJER
+Estado: COAHUILA
+
+Matrícula: 332591
+Nombre 1: David
+Apellido Paterno: Molina
+Apellido Materno: Paredes
+Fecha de nacimiento: 04-09-1977
+Sexo: HOMBRE
+Estado: GUERRERO
+
+Matrícula: 304041
+Nombre 1: Obama
+Nombre 2: Emilio
+Apellido Paterno: Suarez
+Apellido Materno: Jimenez
+Fecha de nacimiento: 21-10-1908
+Sexo: HOMBRE
+Estado: ZACATECAS
+
+Matrícula: 319668
+Nombre 1: Carlos
+Apellido Paterno: Guerrero
+Apellido Materno: Rojas
+Fecha de nacimiento: 13-03-1906
+Sexo: HOMBRE
+Estado: HIDALGO
+
+Matrícula: 318127
+Nombre 1: Valeria
+Nombre 2: Valeria
+Apellido Paterno: Romero
+Apellido Materno: Hernández
+Fecha de nacimiento: 10-07-1965
+Sexo: MUJER
+Estado: VERACRUZ
+
+Matrícula: 309514
+Nombre 1: Verónica
+Nombre 2: Paola
+Apellido Paterno: Cruz
+Apellido Materno: Molina
+Fecha de nacimiento: 29-09-1927
+Sexo: MUJER
+Estado: ZACATECAS
+
+Matrícula: 306224
+Nombre 1: Diego
+Nombre 2: Rafael
+Apellido Paterno: Lopez
+Apellido Materno: Mendoza
+Fecha de nacimiento: 08-10-1925
+Sexo: HOMBRE
+Estado: TAMAULIPAS
+
+Matrícula: 301587
+Nombre 1: Segismundo
+Apellido Paterno: Garcia
+Apellido Materno: Silva
+Fecha de nacimiento: 01-01-1946
+Sexo: HOMBRE
+Estado: MEXICO
+
+Matrícula: 315281
+Nombre 1: Beatriz
+Nombre 2: Ana
+Apellido Paterno: Vargas
+Apellido Materno: Vargas
+Fecha de nacimiento: 19-05-1962
+Sexo: MUJER
+Estado: OAXACA
+
+Matrícula: 318190
+Nombre 1: Beatriz
+Nombre 2: Lucia
+Apellido Paterno: Valencia
+Apellido Materno: Ortega
+Fecha de nacimiento: 03-03-2003
+Sexo: MUJER
+Estado: MORELOS
+
+Matrícula: 320055
+Nombre 1: Soponcio
+Apellido Paterno: Estrvez
+Apellido Materno: Fernandez
+Fecha de nacimiento: 11-02-1937
+Sexo: HOMBRE
+Estado: COAHUILA
+
+Matrícula: 301416
+Nombre 1: Beatriz
+Apellido Paterno: Morales
+Apellido Materno: Martinez
+Fecha de nacimiento: 07-06-2019
+Sexo: MUJER
+Estado: PUEBLA
+
+Matrícula: 324389
+Nombre 1: Camila
+Apellido Paterno: Cruz
+Apellido Materno: Rodriguez
+Fecha de nacimiento: 19-06-1985
+Sexo: MUJER
+Estado: SONORA
+
+Matrícula: 309789
+Nombre 1: Laura
+Apellido Paterno: Salazar
+Apellido Materno: Lopez
+Fecha de nacimiento: 11-05-2017
+Sexo: MUJER
+Estado: DURANGO
+
+Matrícula: 323757
+Nombre 1: Fernando
+Nombre 2: Francisco
+Apellido Paterno: Díaz
+Apellido Materno: Molina
+Fecha de nacimiento: 17-10-1912
+Sexo: HOMBRE
+Estado: PUEBLA
+
+Matrícula: 321425
+Nombre 1: Andrea
+Nombre 2: Ana
+Apellido Paterno: Lopez
+Apellido Materno: Salazar
+Fecha de nacimiento: 04-11-1980
+Sexo: MUJER
+Estado: GUERRERO
+
+Matrícula: 312423
+Nombre 1: Verónica
+Nombre 2: Daniela
+Apellido Paterno: Rojas
+Apellido Materno: Sánchez
+Fecha de nacimiento: 26-02-1926
+Sexo: MUJER
+Estado: TAMAULIPAS
+
+Matrícula: 303297
+Nombre 1: Soponcio
+Nombre 2: Felipe
+Apellido Paterno: Núñez
+Apellido Materno: Fernandez
+Fecha de nacimiento: 26-07-1966
+Sexo: HOMBRE
+Estado: PUEBLA
+
+Matrícula: 320671
+Nombre 1: Segismundo
+Nombre 2: David
+Apellido Paterno: Mendoza
+Apellido Materno: Romero
+Fecha de nacimiento: 03-09-1944
+Sexo: HOMBRE
+Estado: NAYARIT
+
+Matrícula: 304313
+Nombre 1: Carlos
+Apellido Paterno: Gonzalez
+Apellido Materno: Núñez
+Fecha de nacimiento: 13-05-2009
+Sexo: HOMBRE
+Estado: YUCATAN
+
+Matrícula: 307129
+Nombre 1: Lucia
+Apellido Paterno: Romero
+Apellido Materno: Estrvez
+Fecha de nacimiento: 01-12-1916
+Sexo: MUJER
+Estado: CHIHUAHUA
+
+Matrícula: 317253
+Nombre 1: Francisco
+Apellido Paterno: Fernandez
+Apellido Materno: Torres
+Fecha de nacimiento: 23-10-1942
+Sexo: HOMBRE
+Estado: QUINTANA ROO
+
+Matrícula: 302168
+Nombre 1: Jose
+Nombre 2: Alberto
+Apellido Paterno: Díaz
+Apellido Materno: Lopez
+Fecha de nacimiento: 05-06-1929
+Sexo: HOMBRE
+Estado: BAJA CALIFORNIA SUR
+
+Matrícula: 325824
+Nombre 1: Francisco
+Apellido Paterno: Molina
+Apellido Materno: Romero
+Fecha de nacimiento: 18-12-1946
+Sexo: HOMBRE
+Estado: YUCATAN
+
+Matrícula: 308177
+Nombre 1: Carolina
+Nombre 2: Valeria
+Apellido Paterno: Lopez
+Apellido Materno: Fernandez
+Fecha de nacimiento: 24-09-1902
+Sexo: MUJER
+Estado: GUERRERO
+
+Matrícula: 304802
+Nombre 1: Adriana
+Nombre 2: Laura
+Apellido Paterno: Perez
+Apellido Materno: Romero
+Fecha de nacimiento: 22-06-1988
+Sexo: MUJER
+Estado: TAMAULIPAS
+
+Matrícula: 327432
+Nombre 1: Natalia
+Nombre 2: Paola
+Apellido Paterno: Lopez
+Apellido Materno: Núñez
+Fecha de nacimiento: 17-03-2010
+Sexo: MUJER
+Estado: TLAXCALA
+
+Matrícula: 319187
+Nombre 1: Cipriano
+Apellido Paterno: Cruz
+Apellido Materno: Jimenez
+Fecha de nacimiento: 02-06-2011
+Sexo: HOMBRE
+Estado: AGUASCALIENTES
+
+Matrícula: 318896
+Nombre 1: Digna
+Apellido Paterno: Cruz
+Apellido Materno: Suarez
+Fecha de nacimiento: 20-01-1991
+Sexo: MUJER
+Estado: JALISCO
+
+Matrícula: 326576
+Nombre 1: Alberto
+Apellido Paterno: Martinez
+Apellido Materno: Estrvez
+Fecha de nacimiento: 24-10-1990
+Sexo: HOMBRE
+Estado: HIDALGO
+
+Matrícula: 301018
+Nombre 1: Roberto
+Apellido Paterno: Jimenez
+Apellido Materno: Figueroa
+Fecha de nacimiento: 23-07-1960
+Sexo: HOMBRE
+Estado: QUERETARO
+
+Matrícula: 332170
+Nombre 1: Verónica
+Nombre 2: Laura
+Apellido Paterno: Silva
+Apellido Materno: Paredes
+Fecha de nacimiento: 17-11-1925
+Sexo: MUJER
+Estado: VERACRUZ
+
+Matrícula: 303487
+Nombre 1: Andrea
+Nombre 2: Adriana
+Apellido Paterno: Rojas
+Apellido Materno: Ramirez
+Fecha de nacimiento: 03-09-1903
+Sexo: MUJER
+Estado: NUEVO LEON
+
+Matrícula: 300123
+Nombre 1: Miguel
+Nombre 2: David
+Apellido Paterno: Fernandez
+Apellido Materno: Perez
+Fecha de nacimiento: 17-11-1976
+Sexo: HOMBRE
+Estado: CHIAPAS
+
+Matrícula: 320326
+Nombre 1: Paola
+Nombre 2: Adriana
+Apellido Paterno: Rodriguez
+Apellido Materno: Jimenez
+Fecha de nacimiento: 09-09-1930
+Sexo: MUJER
+Estado: CAMPECHE
+
+Matrícula: 304940
+Nombre 1: Sofia
+Nombre 2: Maria
+Apellido Paterno: Romero
+Apellido Materno: Valencia
+Fecha de nacimiento: 16-02-1994
+Sexo: MUJER
+Estado: QUERETARO
+
+Matrícula: 301200
+Nombre 1: Roberto
+Nombre 2: Juan
+Apellido Paterno: Sánchez
+Apellido Materno: Suarez
+Fecha de nacimiento: 24-09-1929
+Sexo: HOMBRE
+Estado: CHIHUAHUA
+
+Matrícula: 319801
+Nombre 1: Juan
+Apellido Paterno: Rodriguez
+Apellido Materno: Paredes
+Fecha de nacimiento: 04-01-1961
+Sexo: HOMBRE
+Estado: AGUASCALIENTES
+
+Matrícula: 312835
+Nombre 1: Fernando
+Apellido Paterno: Romero
+Apellido Materno: Salazar
+Fecha de nacimiento: 07-09-1996
+Sexo: HOMBRE
+Estado: JALISCO
+
+Matrícula: 308526
+Nombre 1: Ana
+Nombre 2: Daniela
+Apellido Paterno: Morales
+Apellido Materno: Estrvez
+Fecha de nacimiento: 05-02-1902
+Sexo: MUJER
+Estado: JALISCO
+
+Matrícula: 318696
+Nombre 1: Ana
+Nombre 2: Daniela
+Apellido Paterno: Rojas
+Apellido Materno: Fernandez
+Fecha de nacimiento: 09-05-2011
+Sexo: MUJER
+Estado: ZACATECAS
+
+Matrícula: 312053
+Nombre 1: Diego
+Apellido Paterno: Paredes
+Apellido Materno: Núñez
+Fecha de nacimiento: 03-06-1905
+Sexo: HOMBRE
+Estado: OAXACA
+
+Matrícula: 302607
+Nombre 1: Paola
+Nombre 2: Adriana
+Apellido Paterno: Silva
+Apellido Materno: Salazar
+Fecha de nacimiento: 03-04-1942
+Sexo: MUJER
+Estado: GUANAJUATO
+
+Matrícula: 306511
+Nombre 1: Lucia
+Nombre 2: Digna
+Apellido Paterno: Díaz
+Apellido Materno: Cruz
+Fecha de nacimiento: 02-03-1914
+Sexo: MUJER
+Estado: CHIHUAHUA
+
+Matrícula: 323850
+Nombre 1: Roberto
+Nombre 2: Cipriano
+Apellido Paterno: Suarez
+Apellido Materno: Hernández
+Fecha de nacimiento: 06-01-2022
+Sexo: HOMBRE
+Estado: AGUASCALIENTES
+
+Matrícula: 325705
+Nombre 1: Felipe
+Nombre 2: Juan
+Apellido Paterno: Romero
+Apellido Materno: Morales
+Fecha de nacimiento: 03-04-1915
+Sexo: HOMBRE
+Estado: CHIAPAS
+
+Matrícula: 327611
+Nombre 1: Isabel
+Apellido Paterno: Vargas
+Apellido Materno: Guerrero
+Fecha de nacimiento: 07-02-1924
+Sexo: MUJER
+Estado: BAJA CALIFORNIA
+
+Matrícula: 300875
+Nombre 1: Alberto
+Apellido Paterno: Figueroa
+Apellido Materno: Núñez
+Fecha de nacimiento: 10-12-1988
+Sexo: HOMBRE
+Estado: SAN LUIS POTOSI
+
+Matrícula: 320040
+Nombre 1: Andres
+Apellido Paterno: Figueroa
+Apellido Materno: Torres
+Fecha de nacimiento: 06-02-1974
+Sexo: HOMBRE
+Estado: NUEVO LEON
+
+Matrícula: 318651
+Nombre 1: Diego
+Apellido Paterno: Fernandez
+Apellido Materno: Molina
+Fecha de nacimiento: 09-10-1932
+Sexo: HOMBRE
+Estado: QUERETARO
+
+Matrícula: 328503
+Nombre 1: Lucia
+Apellido Paterno: Vargas
+Apellido Materno: Figueroa
+Fecha de nacimiento: 26-01-1965
+Sexo: MUJER
+Estado: GUERRERO
+
+Matrícula: 306467
+Nombre 1: Daniela
+Apellido Paterno: Rodriguez
+Apellido Materno: Suarez
+Fecha de nacimiento: 26-06-1917
+Sexo: MUJER
+Estado: GUERRERO
+
+Matrícula: 308213
+Nombre 1: Diego
+Nombre 2: Fernando
+Apellido Paterno: Torres
+Apellido Materno: Garcia
+Fecha de nacimiento: 25-08-1916
+Sexo: HOMBRE
+Estado: TAMAULIPAS
+
+Matrícula: 318786
+Nombre 1: Obama
+Nombre 2: Jose
+Apellido Paterno: Paredes
+Apellido Materno: Guerrero
+Fecha de nacimiento: 23-08-1917
+Sexo: HOMBRE
+Estado: TAMAULIPAS
+
+Matrícula: 309010
+Nombre 1: Daniela
+Apellido Paterno: Suarez
+Apellido Materno: Vargas
+Fecha de nacimiento: 04-10-1955
+Sexo: MUJER
+Estado: MORELOS
+
+Matrícula: 331818
+Nombre 1: Obama
+Nombre 2: David
+Apellido Paterno: Torres
+Apellido Materno: Rodriguez
+Fecha de nacimiento: 20-03-1914
+Sexo: HOMBRE
+Estado: MORELOS
+
+Matrícula: 313648
+Nombre 1: Isabel
+Nombre 2: Lucia
+Apellido Paterno: Fernandez
+Apellido Materno: Lopez
+Fecha de nacimiento: 06-07-1962
+Sexo: MUJER
+Estado: YUCATAN
+
+Matrícula: 308519
+Nombre 1: Daniela
+Apellido Paterno: Mendoza
+Apellido Materno: Garcia
+Fecha de nacimiento: 29-09-1957
+Sexo: MUJER
+Estado: YUCATAN
+
+Matrícula: 309601
+Nombre 1: Camila
+Apellido Paterno: Lopez
+Apellido Materno: Sánchez
+Fecha de nacimiento: 22-04-1950
+Sexo: MUJER
+Estado: MICHOACAN
+
+Matrícula: 314423
+Nombre 1: Maria
+Nombre 2: Lucia
+Apellido Paterno: Mendoza
+Apellido Materno: Valencia
+Fecha de nacimiento: 19-04-1991
+Sexo: MUJER
+Estado: ZACATECAS
+
+Matrícula: 312637
+Nombre 1: Laura
+Nombre 2: Ana
+Apellido Paterno: Valencia
+Apellido Materno: Lopez
+Fecha de nacimiento: 12-09-2012
+Sexo: MUJER
+Estado: YUCATAN
+
+Matrícula: 329954
+Nombre 1: Soponcio
+Apellido Paterno: Molina
+Apellido Materno: Rodriguez
+Fecha de nacimiento: 21-01-2002
+Sexo: HOMBRE
+Estado: TAMAULIPAS
+
+Matrícula: 304536
+Nombre 1: Lucia
+Apellido Paterno: Fernandez
+Apellido Materno: Silva
+Fecha de nacimiento: 25-10-1957
+Sexo: MUJER
+Estado: COAHUILA
+
+Matrícula: 319923
+Nombre 1: Ana
+Apellido Paterno: Paredes
+Apellido Materno: Mendoza
+Fecha de nacimiento: 16-03-1906
+Sexo: MUJER
+Estado: BAJA CALIFORNIA
+
+Matrícula: 320355
+Nombre 1: Daniela
+Apellido Paterno: Suarez
+Apellido Materno: Fernandez
+Fecha de nacimiento: 12-03-2008
+Sexo: MUJER
+Estado: SONORA
+
+Matrícula: 316142
+Nombre 1: Felipe
+Apellido Paterno: Estrvez
+Apellido Materno: Estrvez
+Fecha de nacimiento: 09-10-1909
+Sexo: HOMBRE
+Estado: NAYARIT
+
+Matrícula: 320626
+Nombre 1: David
+Nombre 2: Andres
+Apellido Paterno: Ortega
+Apellido Materno: Gonzalez
+Fecha de nacimiento: 25-11-1901
+Sexo: HOMBRE
+Estado: AGUASCALIENTES
+
+Matrícula: 306652
+Nombre 1: Alberto
+Apellido Paterno: Fernandez
+Apellido Materno: Mendoza
+Fecha de nacimiento: 06-03-1915
+Sexo: HOMBRE
+Estado: BAJA CALIFORNIA
+
+Matrícula: 302011
+Nombre 1: Clara
+Apellido Paterno: Garcia
+Apellido Materno: Núñez
+Fecha de nacimiento: 22-10-1958
+Sexo: MUJER
+Estado: CIUDAD DE MEXICO
+
+Matrícula: 313452
+Nombre 1: Luis
+Nombre 2: Francisco
+Apellido Paterno: Romero
+Apellido Materno: Suarez
+Fecha de nacimiento: 09-01-1915
+Sexo: HOMBRE
+Estado: PUEBLA
+
+Matrícula: 312317
+Nombre 1: Daniela
+Apellido Paterno: Jimenez
+Apellido Materno: Cruz
+Fecha de nacimiento: 21-11-2014
+Sexo: MUJER
+Estado: TAMAULIPAS
+
+Matrícula: 331361
+Nombre 1: Segismundo
+Apellido Paterno: Rodriguez
+Apellido Materno: Molina
+Fecha de nacimiento: 14-10-1922
+Sexo: HOMBRE
+Estado: PUEBLA
+
+Matrícula: 301282
+Nombre 1: Andrea
+Apellido Paterno: Lopez
+Apellido Materno: Guerrero
+Fecha de nacimiento: 15-02-2011
+Sexo: MUJER
+Estado: CAMPECHE
+
+Matrícula: 319008
+Nombre 1: Paola
+Nombre 2: Digna
+Apellido Paterno: Martinez
+Apellido Materno: Suarez
+Fecha de nacimiento: 02-10-2016
+Sexo: MUJER
+Estado: GUANAJUATO
+
+Matrícula: 305589
+Nombre 1: Alberto
+Nombre 2: Obama
+Apellido Paterno: Morales
+Apellido Materno: Paredes
+Fecha de nacimiento: 16-02-2008
+Sexo: HOMBRE
+Estado: VERACRUZ
+
+Matrícula: 301515
+Nombre 1: Ana
+Nombre 2: Beatriz
+Apellido Paterno: Garcia
+Apellido Materno: Morales
+Fecha de nacimiento: 04-10-2000
+Sexo: MUJER
+Estado: GUERRERO
+
+Matrícula: 307815
+Nombre 1: Roberto
+Apellido Paterno: Ramirez
+Apellido Materno: Lopez
+Fecha de nacimiento: 11-06-1994
+Sexo: HOMBRE
+Estado: COAHUILA
+
+Matrícula: 324774
+Nombre 1: David
+Nombre 2: Carlos
+Apellido Paterno: Salazar
+Apellido Materno: Molina
+Fecha de nacimiento: 02-03-2022
+Sexo: HOMBRE
+Estado: PUEBLA
+
+Matrícula: 323977
+Nombre 1: Emilio
+Nombre 2: Cipriano
+Apellido Paterno: Silva
+Apellido Materno: Díaz
+Fecha de nacimiento: 28-08-1942
+Sexo: HOMBRE
+Estado: TLAXCALA
+
+Matrícula: 325184
+Nombre 1: Juan
+Nombre 2: Andres
+Apellido Paterno: Suarez
+Apellido Materno: Morales
+Fecha de nacimiento: 02-08-1949
+Sexo: HOMBRE
+Estado: SAN LUIS POTOSI
+
+Matrícula: 332168
+Nombre 1: Verónica
+Nombre 2: Carolina
+Apellido Paterno: Silva
+Apellido Materno: Torres
+Fecha de nacimiento: 09-07-2005
+Sexo: MUJER
+Estado: COAHUILA
+
+Matrícula: 312249
+Nombre 1: Valeria
+Nombre 2: Isabel
+Apellido Paterno: Morales
+Apellido Materno: Fernandez
+Fecha de nacimiento: 13-01-1922
+Sexo: MUJER
+Estado: MEXICO
+
+Matrícula: 328666
+Nombre 1: Ana
+Apellido Paterno: Cruz
+Apellido Materno: Ortega
+Fecha de nacimiento: 22-11-1969
+Sexo: MUJER
+Estado: MORELOS
+
+Matrícula: 329309
+Nombre 1: Sofia
+Nombre 2: Isabel
+Apellido Paterno: Martinez
+Apellido Materno: Mendoza
+Fecha de nacimiento: 08-08-1918
+Sexo: MUJER
+Estado: CHIAPAS
+
+Matrícula: 312268
+Nombre 1: Luis
+Nombre 2: Jose
+Apellido Paterno: Morales
+Apellido Materno: Núñez
+Fecha de nacimiento: 07-03-1956
+Sexo: HOMBRE
+Estado: SONORA
+
+Matrícula: 304084
+Nombre 1: Obama
+Nombre 2: Emilio
+Apellido Paterno: Núñez
+Apellido Materno: Perez
+Fecha de nacimiento: 09-09-1949
+Sexo: HOMBRE
+Estado: CAMPECHE
+
